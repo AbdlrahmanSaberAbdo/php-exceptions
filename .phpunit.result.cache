@@ -1,0 +1,1 @@
+{"version":1,"defects":{"UserTest::testUserException":4},"times":{"UserTest::testPrinty":0.009,"UserTest::testUserException":0.01,"UserTest::testUserCaseNotAllowed":0.01,"UserTest::testUserCaseAllowed":0.001}}
